@@ -1,0 +1,14 @@
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.exe
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.deps.json
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.runtimeconfig.json
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.runtimeconfig.dev.json
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.dll
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\bin\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.pdb
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.csproj.AssemblyReference.cache
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.AssemblyInfoInputs.cache
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.AssemblyInfo.cs
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.dll
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.pdb
+E:\ASP.NET\Day8-EmployeeWagesUsingOOPS\EmployeeWagesUsingOOPS\obj\Debug\netcoreapp3.1\EmployeeWagesUsingOOPS.genruntimeconfig.cache
